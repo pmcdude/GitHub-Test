@@ -152,4 +152,3 @@ public class TabStateController : MonoBehaviour
             onShowMain();
     }
 }
-//I'd rather do this instead
